@@ -15,7 +15,7 @@ Una herramienta de línea de comandos para evaluar imágenes con servicios de li
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/geo-mena/liveness-cli.git
+   git clone https://github.com/Facephi-Backend-Support/liveness-cli.git
    cd liveness-cli
    ```
 
